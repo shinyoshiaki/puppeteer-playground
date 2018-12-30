@@ -1,0 +1,13 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "puppeteer": "^1.11.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
